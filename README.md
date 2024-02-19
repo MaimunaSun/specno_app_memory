@@ -1,0 +1,1 @@
+# specno_app_memory
