@@ -1,1 +1,2 @@
 # specno_app_memory
+This project creates a game memory game. The user ae first prompted to StartPage where they start the game. When user press start game they are promted two enter the two player names and when the user submit the name's they are routed to WelcomePage where they have to press lets' play to start the actual game f they are are ready to play the game. on the Game Baord Page the users play the memory game and they sores get visulized on the side of the screen.
